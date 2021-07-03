@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" alt="Eat Sleep Code Change the Game" width="200px" />
+<img align="right" src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" alt="Eat Sleep Code Change the Game" width="500px" />
 
 ## Hi there, I'm Miqelle! 👋
 
