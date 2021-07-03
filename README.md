@@ -1,4 +1,4 @@
-<img align="right" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N" alt="Eat Sleep Code Repeat" width="550px" />
+<img align="right" src="https://pixels.com/featured/1-eat-sleep-code-repeat-raymond-sandos.html" alt="Eat Sleep Code Repeat" width="550px" />
 
 ## Hi there, I'm Miqelle! 👋
 
