@@ -3,5 +3,5 @@
 ## Hi there, I'm Miqelle! 👋
 
 -   How to reach me: Twitter [@coderm6](https://twitter.com/Coderm6)
--   I am a student in The Code Crew **Full-Stack Developer** Program
+-   I am a student in The Code Crew's **Full-Stack Developer** Program
 -   All of my projects will be shared here to document my progress!
