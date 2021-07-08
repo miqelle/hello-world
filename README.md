@@ -1,5 +1,5 @@
 ## Hi there! I'm a 👇🏽
-![Developer](https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif)
+<img float= right rc="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif"/>
 -   All of my projects will be shared here to document my progress!
 -   Connect with me at the links below!
 
