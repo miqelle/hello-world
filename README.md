@@ -1,4 +1,5 @@
-<h1> Hi there! </h1> <img align="right" width="300" height="200" src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif">
+<h1> Hi there! </h1> 
+<img align="right" width="300" height="200" src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif">
 <p>I'm currently training with The Code Crew to become a Full-Stack Developer!</p>
 <p>You can reach me on Twitter and LinkedIn at the links below !
 
