@@ -2,9 +2,9 @@
 
 <img align="right" width="200" height="200" src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif">
 
-<p>I'm currently training with The Code Crew to become a Full-Stack Developer!</p></nobr></td>
+<p>I'm currently training with <em>The Code Crew</em> to become a <strong>Full-Stack Developer</strong>!</p>
 
-<p>You can reach me on Twitter and LinkedIn at the links below !
+<p>You can reach me on <strong>Twitter</strong> and <strong>LinkedIn</strong> at the links below !
   
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CoderM6)
 
