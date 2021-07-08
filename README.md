@@ -1,6 +1,6 @@
 <h1>Hi 👋🏽, I'm Miqelle!</h1> 
 
-<img align="right" width="350" height="250" src="https://media.giphy.com/media/l1J9PC411qxTzlp2U/giphy-downsized.gif">
+<img align="right" width="350" height="250" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
 
 <p> I'm always learning new skills</p>
 
