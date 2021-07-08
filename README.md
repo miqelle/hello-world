@@ -1,5 +1,7 @@
 ## Hi there, I'm Miqelle! 👋
 
+<iframe src="https://giphy.com/embed/SsUZ62X6R9DcrxdSaL" width="480" height="148" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-technology-spectra-SsUZ62X6R9DcrxdSaL">via GIPHY</a></p>
+
 -   I am a student in The Code Crew's **Full-Stack Developer** Program
 -   All of my projects will be shared here to document my progress!
 
