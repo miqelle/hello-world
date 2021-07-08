@@ -1,5 +1,5 @@
 ## Hi there, I'm Miqelle! 👋
-- ![Tech](https://media.giphy.com/media/jQoMk4rOThGxC9EmaV/source.gif)
+![Tech](https://media.giphy.com/media/jQoMk4rOThGxC9EmaV/source.gif)
 -   I am a student in The Code Crew's **Full-Stack Developer** Program
 -   All of my projects will be shared here to document my progress!
 
