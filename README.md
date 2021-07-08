@@ -1,6 +1,6 @@
 <h1>Hi 👋🏽, I'm Miqelle!</h1> 
 
-<img align="right" width="200" height="200" src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif">
+<img align="right" width="200" height="200" src="https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif">
 
 <p>I'm currently training with <em>The Code Crew</em> to become a <strong>Full-Stack Developer</strong>!</p>
 
