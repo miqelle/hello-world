@@ -4,8 +4,6 @@
 
 <p> I'm always learning new skills</p>
 
-<p>I'm currently training with <em>The Code Crew</em> to become a <strong>Full-Stack Developer</strong>!</p>
-
 <p>You can reach me on <strong>Twitter</strong> and <strong>LinkedIn</strong> at the links below !
   
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CoderM6)
